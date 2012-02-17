@@ -1,0 +1,11 @@
+GEM
+  specs:
+    rack (1.4.1)
+    rack-reverse-proxy (0.4.4)
+      rack (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack-reverse-proxy
